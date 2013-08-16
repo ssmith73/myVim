@@ -1,0 +1,7 @@
+Steps to get this working on a new setup
+
+1: Create a symbolic link to .vimrc ln -s .vim/.vimrc .vimrc
+2: source the load_plugins.sh from .vim - this will clone the latest plugins
+from github
+
+That's it folks!
