@@ -1,0 +1,35 @@
+:insert
+//-HDR_BGN------------------------------------------------------------
+//
+// TITLE :
+// PROJECT :
+// FILE NAME :
+// DESIGNER : sean.smith@analog.com (PDA) Limerick x5883
+// CREATION DATE :
+// LAST MODIFIED : 
+//
+//--------------------------------------------------------------------
+// DESCRIPTION :
+//
+// RESET :
+//
+// REVISION HISTORY :
+//
+// REVISION: : $Revision$
+//
+// $log$
+//
+// NOTES :
+//--------------------------------------------------------------------
+/***************
+***  ***********
+***    *********       Copyright (c) 2013 Analog Devices
+***      *******          (Limerick Design Center)
+***        *****         Analog Devices Confidential
+***      *******             All rights reserved
+***    *********
+***  ***********
+***************/
+//-HDR_END------------------------------------------------------------.
+.
+
